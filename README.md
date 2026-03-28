@@ -148,4 +148,4 @@ Naman Singhal
 
 ## ⭐ Acknowledgements
 
-This project is built for learning and demonstrating real-world Data Engineering concepts using Dat
+This project is built for learning and demonstrating real-world Data Engineering concepts using Databricks.
